@@ -58,6 +58,9 @@ table {
 body {
 	-webkit-text-size-adjust: none;
 }
+#intro{
+	background: black;
+}
 
 mark {
 	background-color: transparent;
