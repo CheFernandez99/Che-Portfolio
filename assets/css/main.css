@@ -27,12 +27,12 @@ section, summary, time, mark, audio, video {
 .wrapper p{
 	margin-left: 2%;
 }
-.flex2{
+/*.flex2{
 	justify-content: center;
 	align-items: center;
 	display: flex;
 }
-
+*/
 h1{
 	justify-content: center;
 	display: flex;
